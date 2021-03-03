@@ -1,0 +1,9 @@
+.box{
+    background-color: olive;
+    width: 77px;
+    display: flex;
+    border-radius: 7px;
+    float: left;
+    padding: 1.7px;
+    margin: 7px;
+}
